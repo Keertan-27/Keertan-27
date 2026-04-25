@@ -38,7 +38,7 @@ Software Engineer with 1.5+ years of industry experience building scalable backe
 
 <p align="left">
 <a href="https://github.com/Keertan-Sharma">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keertan-27&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keertan-Sharma&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 </p>
 
