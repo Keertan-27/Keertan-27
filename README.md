@@ -56,9 +56,3 @@ Software Engineer with 1.5+ years of industry experience building scalable backe
 </a>
 </p>
 
-<p align="left">
-<a href="https://github.com/Keertan-Sharma">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertan-Sharma&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&layout=compact" />
-</a>
-</p>
-
