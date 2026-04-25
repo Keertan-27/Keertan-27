@@ -4,7 +4,7 @@
 
 ### Software Engineer | Backend Systems | Data Pipelines | ML-Powered Applications
 
-Software Engineer with 1.5+ years of industry experience building scalable backend systems, distributed data pipelines, and ML-powered applications. Experienced in designing production-grade REST APIs, high-volume data workflows, cloud-native deployments, and intelligent AI-driven systems using AWS, Docker, and Kubernetes.
+Software Engineer with 2 years of industry experience building scalable backend systems, distributed data pipelines, and ML-powered applications. Experienced in designing production-grade REST APIs, high-volume data workflows, cloud-native deployments, and intelligent AI-driven systems using AWS, Docker, and Kubernetes.
 
 * 🌍 I'm based in Panna, Madhya Pradesh, India
 * ✉️ You can contact me at [keertansharma27@gmail.com](mailto:keertansharma27@gmail.com)
