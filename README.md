@@ -14,9 +14,16 @@ Software Engineer with 1.5+ years of industry experience building scalable backe
 
 ## Skills
 
+## Skills
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,flask,fastapi,mysql,postgres,mongodb,aws,docker,kubernetes,tensorflow,pytorch,gcp,html,css,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,flask,fastapi,mysql,postgres,mongodb&theme=dark" />
 </p>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow,pytorch,gcp,html,css,vscode,git&theme=dark" />
+</p>
+
 
 
 ---
