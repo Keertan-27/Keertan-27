@@ -34,11 +34,11 @@ Software Engineer with 1.5+ years of industry experience building scalable backe
 
 ## Badges
 
-<b>My GitHub Stats</b>
+<b>Personal Engineering & Open Source Stats</b>
 
 <p align="left">
-<a href="https://github.com/Keertan-Sharma">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keertan-Sharma&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<a href="https://github.com/Keertan-27">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keertan-27&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 </p>
 
@@ -47,3 +47,18 @@ Software Engineer with 1.5+ years of industry experience building scalable backe
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertan-27&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&layout=compact" />
 </a>
 </p>
+
+<b>Professional Engineering Contribution Stats</b>
+
+<p align="left">
+<a href="https://github.com/Keertan-Sharma">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keertan-Sharma&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/Keertan-Sharma">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertan-Sharma&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&layout=compact" />
+</a>
+</p>
+
