@@ -24,21 +24,25 @@ Software Engineer with 2 years of industry experience building scalable backend 
 
 ## Socials
 
-<p align="left">
-  <a href="https://github.com/Keertan-Sharma" target="_blank" style="margin-right: 25px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  
-  <a href="https://linkedin.com/in/keertan27" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<a href="https://github.com/Keertan-Sharma" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
+<br />
+<u>GitHub</u>
+</a>
+</td>
 
-<p align="left">
-  <a href="https://github.com/Keertan-Sharma" target="_blank"><u>GitHub</u></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/keertan27" target="_blank"><u>LinkedIn</u></a>
-</p>
+<td align="center" width="120">
+<a href="https://linkedin.com/in/keertan27" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+<br />
+<u>LinkedIn</u>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
