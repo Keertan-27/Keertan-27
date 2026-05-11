@@ -58,7 +58,7 @@ Software Engineer with 2 years of industry experience building scalable backend 
 
 <p align="left">
   <a href="https://github.com/Keertan-27">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Keertan-27&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertan-27&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
